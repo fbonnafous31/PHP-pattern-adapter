@@ -1,0 +1,11 @@
+{
+    "name": "bonnafous/duck",
+    "description": "Pattern adapteur, exemple d'adapteur entre un canard et un dindon",
+    "authors": [
+        {
+            "name": "François Bonnafous",
+            "email": "francois.bonnafous@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
